@@ -2,7 +2,8 @@
 
 Официальный современный адаптивный сайт-лендинг для детейлинг-центра и автомойки **«ЧистыйГород»**, расположенного по адресу: **г. Москва, ул. Маломосковская, д. 22, стр. 2** (метро Алексеевская / ВДНХ).
 
-Ссылка на карточку в Яндекс Картах: [https://yandex.ru/maps/-/CXr9ZWZT](https://yandex.ru/maps/-/CXr9ZWZT)
+- 🌐 **Демо онлайн (GitHub Pages):** [https://desmosdesmos.github.io/chistyygorod-detailing/](https://desmosdesmos.github.io/chistyygorod-detailing/)
+- 📍 **Карточка в Яндекс Картах:** [https://yandex.ru/maps/-/CXr9ZWZT](https://yandex.ru/maps/-/CXr9ZWZT)
 
 ---
 
